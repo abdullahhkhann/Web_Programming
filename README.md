@@ -1,5 +1,5 @@
 # Web_Programming
-Web Programming final project. Front-end &amp; Back-end  
+Web Programming final project. Front-end &amp; Back-end using MEAN stack  
 
 - This is a project my partner & I created for the web programming course, where I developed the back-end, and my partner developed the front-end and came up with the idea  
 
